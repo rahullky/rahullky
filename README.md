@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data scientist**
 
-- 📫 How to reach me **rahul.kumar162065@gmail.com**
+- 📫 How to reach me **rahul.kumar...@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
